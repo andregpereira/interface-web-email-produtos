@@ -74,7 +74,6 @@ public class EmailController {
 			}
 
 			scanner.close();
-			System.out.println(json);
 
 			ObjectMapper mapper = new ObjectMapper();
 
